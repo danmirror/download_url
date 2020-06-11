@@ -8,3 +8,6 @@
 
 #### install web browser
 - pip3 install webbrowser
+
+#### author
+- <a href=https://me-danuandrean.github.io>Danu andrean</a>
